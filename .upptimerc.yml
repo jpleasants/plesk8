@@ -3,8 +3,60 @@ owner: jpleasants # Your GitHub organization or username, where this repository 
 repo: plesk8 # The name of this repository
 
 sites:
-  - name: Placeholder
-    url: https://placeholder.com
+  - name: staging Tandoori Bites
+    url: https://staging.tandooribites.net
+  - name: staging varidx io
+    url: https://staging.varidx.io
+  - name: Portal shahandassociatesfp 
+    url: https://portal.shahandassociatesfp.com
+  - name: Rangoli Catering
+    url: https://rangolicatering.com
+  - name: The Bright Five Venture
+    url: https://thebrightfiveventure.com
+  - name: staging The Rangoli Restaurant
+    url: https://staging.therangolirestaurant.com
+  - name: Benchiro Practic
+    url: https://benchiropractic.com
+  - name: Sixth Sensehi
+    url: https://sixthsensehi.com
+  - name: Tripler
+    url: https://tripler.com
+  - name: Nukka Dusa
+    url: https://nukkadusa.com
+  - name: Modern Closet Sanddoors
+    url: https://modernclosetsanddoors.com
+  - name: Ourhealth Partner
+    url: https://ourhealthpartner.com
+  - name: Mhcon Temporary Catering
+    url: https://mhcontemporarycatering.com
+  - name: Vascular Wellness
+    url: https://vascularwellness.com
+  - name: Seattlean Jappar
+    url: https://seattleanjappar.com
+  - name: Tandoori Nrtp
+    url: https://Tandoorinrtp.com
+  - name: Anjappar Caryon Line
+    url: https://anjapparcaryonline.com
+  - name: Hayward Institute
+    url: https://haywardinstitute.org
+  - name: Varidx io
+    url: https://varidx.io
+  - name: The Rangoli Restaurant
+    url: https://therangolirestaurant.com
+  - name: The Airgap
+    url: https://theairgap.com
+  - name: Tandoori Bites
+    url: https://tandooribites.net
+  - name: Wilson Digestive Diseases Center
+    url: https://wilsondigestivediseasescenter.com
+  - name: Beta Search
+    url: https://beta-search.com
+  - name: Pandyanad
+    url: https://pandyanad.com
+  - name: Carolinas Tie
+    url: https://carolinas.tie.org
+  - name: Midwest Sleep Medicine
+    url: https://midwestsleepmedicine.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
