@@ -3,43 +3,43 @@ owner: jpleasants # Your GitHub organization or username, where this repository 
 repo: plesk8 # The name of this repository
 
 sites:
-  - name: staging Tandoori Bites
+  - name: Tandoori Bites Staging
     url: https://staging.tandooribites.net
-  - name: staging varidx io
+  - name: VaridX Staging
     url: https://staging.varidx.io
-  - name: Portal shahandassociatesfp 
+  - name: Shah and Associates FP Portal 
     url: https://portal.shahandassociatesfp.com
   - name: Rangoli Catering
     url: https://rangolicatering.com
   - name: The Bright Five Venture
     url: https://thebrightfiveventure.com
-  - name: staging The Rangoli Restaurant
+  - name: The Rangoli Restaurant Staging
     url: https://staging.therangolirestaurant.com
-  - name: Benchiro Practic
+  - name: Benson Chiropractic
     url: https://benchiropractic.com
-  - name: Sixth Sensehi
+  - name: Sixth Sense HI
     url: https://sixthsensehi.com
-  - name: Tripler
+  - name: TripleR
     url: https://tripler.com
-  - name: Nukka Dusa
+  - name: Nukkad USA
     url: https://nukkadusa.com
-  - name: Modern Closet Sanddoors
+  - name: Modern Closets and Doors
     url: https://modernclosetsanddoors.com
-  - name: Ourhealth Partner
+  - name: Our Health Partner
     url: https://ourhealthpartner.com
-  - name: Mhcon Temporary Catering
+  - name: MH Contemporary Catering
     url: https://mhcontemporarycatering.com
   - name: Vascular Wellness
     url: https://vascularwellness.com
-  - name: Seattlean Jappar
+  - name: Seattle Anjappar
     url: https://seattleanjappar.com
-  - name: Tandoori Nrtp
+  - name: Tandoori RTP
     url: https://Tandoorinrtp.com
-  - name: Anjappar Caryon Line
+  - name: Anjappar Cary Online
     url: https://anjapparcaryonline.com
   - name: Hayward Institute
     url: https://haywardinstitute.org
-  - name: Varidx io
+  - name: VaridX
     url: https://varidx.io
   - name: The Rangoli Restaurant
     url: https://therangolirestaurant.com
@@ -51,7 +51,7 @@ sites:
     url: https://wilsondigestivediseasescenter.com
   - name: Beta Search
     url: https://beta-search.com
-  - name: Pandyanad
+  - name: PandyaNad
     url: https://pandyanad.com
   - name: Carolinas Tie
     url: https://carolinas.tie.org
