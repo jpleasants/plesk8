@@ -6,18 +6,12 @@ sites:
   - name: Plesk 8
     url: https://plesk8.samitsolutions.com
     port: 8443
-  - name: Tandoori Bites Staging
-    url: https://staging.tandooribites.net
   - name: VaridX Staging
     url: https://staging.varidx.io
   - name: Shah and Associates FP Portal 
     url: https://portal.shahandassociatesfp.com
-  - name: Rangoli Catering
-    url: https://rangolicatering.com
   - name: The Bright Five Venture
     url: https://thebrightfiveventure.com
-  - name: The Rangoli Restaurant Staging
-    url: https://staging.therangolirestaurant.com
   - name: Benson Chiropractic
     url: https://benchiropractic.com
   - name: Sixth Sense HI
