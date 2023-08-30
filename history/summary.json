@@ -25,11 +25,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/staging.varidx.io.ico",
     "slug": "varid-x-staging",
     "status": "up",
-    "uptime": "96.24%",
+    "uptime": "96.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.24%",
-    "uptimeYear": "96.24%",
+    "uptimeMonth": "96.25%",
+    "uptimeYear": "96.25%",
     "time": 624,
     "timeDay": 2884,
     "timeWeek": 853,
@@ -210,10 +210,10 @@
     "url": "https://vascularwellness.com",
     "icon": "https://icons.duckduckgo.com/ip3/vascularwellness.com.ico",
     "slug": "vascular-wellness",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1685,
@@ -221,7 +221,9 @@
     "timeWeek": 1369,
     "timeMonth": 1685,
     "timeYear": 1685,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-30": 1
+    }
   },
   {
     "name": "Seattle Anjappar",
