@@ -210,19 +210,19 @@
     "url": "https://vascularwellness.com",
     "icon": "https://icons.duckduckgo.com/ip3/vascularwellness.com.ico",
     "slug": "vascular-wellness",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1685,
-    "timeDay": 1904,
-    "timeWeek": 1369,
-    "timeMonth": 1685,
-    "timeYear": 1685,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 1677,
+    "timeDay": 1649,
+    "timeWeek": 1372,
+    "timeMonth": 1677,
+    "timeYear": 1677,
     "dailyMinutesDown": {
-      "2023-08-30": 1
+      "2023-08-30": 9
     }
   },
   {
