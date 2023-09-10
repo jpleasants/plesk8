@@ -318,10 +318,10 @@
     "url": "https://therangolirestaurant.com",
     "icon": "https://icons.duckduckgo.com/ip3/therangolirestaurant.com.ico",
     "slug": "the-rangoli-restaurant",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 4672,
@@ -329,7 +329,9 @@
     "timeWeek": 4870,
     "timeMonth": 4611,
     "timeYear": 4672,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-10": 1
+    }
   },
   {
     "name": "The Airgap",
