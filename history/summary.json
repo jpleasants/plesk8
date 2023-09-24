@@ -103,10 +103,10 @@
     "url": "https://sixthsensehi.com",
     "icon": "https://icons.duckduckgo.com/ip3/sixthsensehi.com.ico",
     "slug": "sixth-sense-hi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.38%",
-    "uptimeDay": "68.77%",
-    "uptimeWeek": "95.36%",
+    "uptimeDay": "68.68%",
+    "uptimeWeek": "95.35%",
     "uptimeMonth": "98.93%",
     "uptimeYear": "99.38%",
     "time": 4452,
@@ -115,7 +115,7 @@
     "timeMonth": 4080,
     "timeYear": 4452,
     "dailyMinutesDown": {
-      "2023-09-24": 379,
+      "2023-09-24": 380,
       "2023-09-23": 71,
       "2023-09-22": 18
     }
