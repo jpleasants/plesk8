@@ -178,7 +178,7 @@
     "uptime": "87.64%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "70.42%",
+    "uptimeMonth": "70.40%",
     "uptimeYear": "87.64%",
     "time": 4325,
     "timeDay": 0,
@@ -186,7 +186,7 @@
     "timeMonth": 4241,
     "timeYear": 4325,
     "dailyMinutesDown": {
-      "2023-10-14": 942,
+      "2023-10-14": 950,
       "2023-10-13": 1440,
       "2023-10-12": 1440,
       "2023-10-11": 1440,
@@ -487,19 +487,19 @@
     "url": "https://midwestsleepmedicine.com",
     "icon": "https://icons.duckduckgo.com/ip3/midwestsleepmedicine.com.ico",
     "slug": "midwest-sleep-medicine",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 4038,
-    "timeDay": 4171,
-    "timeWeek": 4265,
-    "timeMonth": 4124,
-    "timeYear": 4038,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 4040,
+    "timeDay": 4175,
+    "timeWeek": 4254,
+    "timeMonth": 4126,
+    "timeYear": 4040,
     "dailyMinutesDown": {
-      "2023-10-14": 0
+      "2023-10-14": 8
     }
   }
 ]
