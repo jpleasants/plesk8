@@ -12,15 +12,34 @@ sites:
       - 201
       - 301
       - 403
-      - 503
   - name: VaridX Staging
     url: https://staging.varidx.io
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
   - name: Shah and Associates FP Portal 
     url: https://portal.shahandassociatesfp.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
   - name: The Bright Five Venture
     url: https://thebrightfiveventure.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
   - name: Benson Chiropractic
     url: https://benchiropractic.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
   - name: Sixth Sense HI
     url: https://sixthsensehi.com
     expectedStatusCodes:
@@ -28,13 +47,27 @@ sites:
       - 201
       - 301
       - 403
-      - 503
   - name: TripleR
     url: https://tripler.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
   - name: Nukkad USA
     url: https://nukkadusa.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
   - name: Modern Closets and Doors
     url: https://modernclosetsanddoors.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
   - name: Our Health Partner
     url: https://ourhealthpartner.com
     expectedStatusCodes:
@@ -42,9 +75,13 @@ sites:
       - 201
       - 301
       - 403
-      - 503
   - name: MH Contemporary Catering
     url: https://mhcontemporarycatering.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
   - name: Vascular Wellness
     url: https://vascularwellness.com
     expectedStatusCodes:
@@ -52,17 +89,41 @@ sites:
       - 201
       - 301
       - 403
-      - 503
   - name: Seattle Anjappar
     url: https://seattleanjappar.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
   - name: Tandoori RTP
     url: https://Tandoorinrtp.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
   - name: Anjappar Cary Online
     url: https://anjapparcaryonline.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
   - name: Hayward Institute
     url: https://haywardinstitute.org
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
   - name: VaridX
     url: https://varidx.io
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
   - name: The Rangoli Restaurant
     url: https://therangolirestaurant.com
     expectedStatusCodes:
@@ -70,21 +131,55 @@ sites:
       - 201
       - 301
       - 403
-      - 503
   - name: The Airgap
     url: https://theairgap.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
   - name: Tandoori Bites
     url: https://tandooribites.net
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
   - name: Wilson Digestive Diseases Center
     url: https://wilsondigestivediseasescenter.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
   - name: Beta Search
     url: https://beta-search.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
   - name: PandyaNad
     url: https://pandyanad.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
   - name: Carolinas Tie
     url: https://carolinas.tie.org
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
   - name: Midwest Sleep Medicine
     url: https://midwestsleepmedicine.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
