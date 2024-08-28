@@ -28,6 +28,7 @@ sites:
     expectedStatusCodes:
       - 200
       - 201
+      - 301
       - 503
   - name: MH Contemporary Catering
     url: https://mhcontemporarycatering.com
