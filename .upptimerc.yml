@@ -25,6 +25,10 @@ sites:
     url: https://modernclosetsanddoors.com
   - name: Our Health Partner
     url: https://ourhealthpartner.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 503
   - name: MH Contemporary Catering
     url: https://mhcontemporarycatering.com
   - name: Vascular Wellness
