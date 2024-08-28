@@ -7,6 +7,12 @@ sites:
   - name: Plesk 8
     url: https://plesk8.samitsolutions.com
     port: 8443
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
+      - 503
   - name: VaridX Staging
     url: https://staging.varidx.io
   - name: Shah and Associates FP Portal 
@@ -17,6 +23,12 @@ sites:
     url: https://benchiropractic.com
   - name: Sixth Sense HI
     url: https://sixthsensehi.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
+      - 503
   - name: TripleR
     url: https://tripler.com
   - name: Nukkad USA
@@ -35,6 +47,12 @@ sites:
     url: https://mhcontemporarycatering.com
   - name: Vascular Wellness
     url: https://vascularwellness.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
+      - 503
   - name: Seattle Anjappar
     url: https://seattleanjappar.com
   - name: Tandoori RTP
