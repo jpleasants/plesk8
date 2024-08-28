@@ -47,6 +47,12 @@ sites:
     url: https://varidx.io
   - name: The Rangoli Restaurant
     url: https://therangolirestaurant.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
+      - 503
   - name: The Airgap
     url: https://theairgap.com
   - name: Tandoori Bites
