@@ -1,7 +1,7 @@
 url: https://carolinas.tie.org
-status: down
-code: 500
-responseTime: 11485
-lastUpdated: 2024-08-31T23:10:37.466Z
+status: up
+code: 200
+responseTime: 585
+lastUpdated: 2024-09-01T19:35:12.281Z
 startTime: 2023-08-02T17:21:32.000Z
 generator: Upptime <https://github.com/upptime/upptime>
