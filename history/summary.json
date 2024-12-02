@@ -30,11 +30,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/staging.varidx.io.ico",
     "slug": "varid-x-staging",
     "status": "up",
-    "uptime": "55.18%",
+    "uptime": "55.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "50.98%",
+    "uptimeYear": "51.01%",
     "time": 1446,
     "timeDay": 1180,
     "timeWeek": 1201,
@@ -220,8 +220,7 @@
       "2023-12-07": 1440,
       "2023-12-06": 1440,
       "2023-12-05": 1440,
-      "2023-12-04": 1440,
-      "2023-12-03": 1440
+      "2023-12-04": 1440
     }
   },
   {
@@ -275,10 +274,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/benchiropractic.com.ico",
     "slug": "benson-chiropractic",
     "status": "up",
-    "uptime": "98.94%",
-    "uptimeDay": "75.06%",
-    "uptimeWeek": "94.90%",
-    "uptimeMonth": "98.83%",
+    "uptime": "98.95%",
+    "uptimeDay": "76.08%",
+    "uptimeWeek": "95.05%",
+    "uptimeMonth": "98.86%",
     "uptimeYear": "99.10%",
     "time": 821,
     "timeDay": 333,
@@ -286,7 +285,7 @@
     "timeMonth": 424,
     "timeYear": 739,
     "dailyMinutesDown": {
-      "2024-12-01": 361,
+      "2024-12-01": 346,
       "2024-11-30": 155,
       "2024-10-16": 390,
       "2024-10-15": 119,
@@ -416,7 +415,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-01": 1390,
+      "2024-12-02": 85,
+      "2024-12-01": 1440,
       "2024-11-30": 1440,
       "2024-11-29": 1440,
       "2024-11-28": 1440,
@@ -779,8 +779,7 @@
       "2023-12-07": 1440,
       "2023-12-06": 1440,
       "2023-12-05": 1440,
-      "2023-12-04": 1440,
-      "2023-12-03": 1440
+      "2023-12-04": 1440
     }
   },
   {
@@ -1180,7 +1179,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/midwestsleepmedicine.com.ico",
     "slug": "midwest-sleep-medicine",
     "status": "up",
-    "uptime": "95.94%",
+    "uptime": "95.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
