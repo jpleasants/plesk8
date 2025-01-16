@@ -167,7 +167,7 @@ sites:
       - 301
       - 403
   - name: Carolinas Tie
-    url: https://carolinas.tie.org
+    url: https://tiecarolinas.org
     expectedStatusCodes:
       - 200
       - 201
