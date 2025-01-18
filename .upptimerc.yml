@@ -12,8 +12,8 @@ sites:
       - 201
       - 301
       - 403
-  - name: VaridX Staging
-    url: https://staging.varidx.io
+  - name: Africancarib Beanmarket
+    url: https://africancaribbeanmarket.com
     expectedStatusCodes:
       - 200
       - 201
@@ -33,8 +33,8 @@ sites:
       - 201
       - 301
       - 403
-  - name: Benson Chiropractic
-    url: https://benchiropractic.com
+  - name: Azitra Us
+    url: https://azitra.us
     expectedStatusCodes:
       - 200
       - 201
@@ -75,8 +75,8 @@ sites:
       - 201
       - 301
       - 403
-  - name: MH Contemporary Catering
-    url: https://mhcontemporarycatering.com
+  - name: Ourhealth Partner
+    url: https://ourhealthpartner.com
     expectedStatusCodes:
       - 200
       - 201
@@ -89,8 +89,8 @@ sites:
       - 201
       - 301
       - 403
-  - name: Seattle Anjappar
-    url: https://seattleanjappar.com
+  - name: rangoli Catering
+    url: https://rangolicatering.com
     expectedStatusCodes:
       - 200
       - 201
@@ -103,22 +103,22 @@ sites:
       - 201
       - 301
       - 403
-  - name: Anjappar Cary Online
-    url: https://anjapparcaryonline.com
+  - name: triangl Ehearing
+    url: https://trianglehearing.com
     expectedStatusCodes:
       - 200
       - 201
       - 301
       - 403
-  - name: Hayward Institute
-    url: https://haywardinstitute.org
+  - name: Synapse-ic
+    url: https://synapse-ic.com
     expectedStatusCodes:
       - 200
       - 201
       - 301
       - 403
-  - name: VaridX
-    url: https://varidx.io
+  - name: Gardenroad Distributors
+    url: https://gardenroaddistributors.com
     expectedStatusCodes:
       - 200
       - 201
@@ -159,8 +159,8 @@ sites:
       - 201
       - 301
       - 403
-  - name: PandyaNad
-    url: https://pandyanad.com
+  - name: Campussafety Products
+    url: https://campussafetyproducts.com
     expectedStatusCodes:
       - 200
       - 201
@@ -180,6 +180,20 @@ sites:
       - 201
       - 301
       - 403
+  - name: Carolinas Tie
+    url: https://carolinas.tie.org
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
+  - name: Executive eatsnyc 
+    url: https://executiveeatsnyc.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403 
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
