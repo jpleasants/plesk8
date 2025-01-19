@@ -75,13 +75,6 @@ sites:
       - 201
       - 301
       - 403
-  - name: Ourhealth Partner
-    url: https://ourhealthpartner.com
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 301
-      - 403
   - name: Vascular Wellness
     url: https://vascularwellness.com
     expectedStatusCodes:
