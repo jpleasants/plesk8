@@ -12,29 +12,29 @@ sites:
       - 201
       - 301
       - 403
-  - name: Africancarib Beanmarket
-    url: https://africancaribbeanmarket.com
+  - name: beta-search
+    url: https://beta-search.com
     expectedStatusCodes:
       - 200
       - 201
       - 301
       - 403
-  - name: Shah and Associates FP Portal 
-    url: https://portal.shahandassociatesfp.com
+  - name: executiveeatsnyc
+    url: https://executiveeatsnyc.com
     expectedStatusCodes:
       - 200
       - 201
       - 301
       - 403
-  - name: The Bright Five Venture
-    url: https://thebrightfiveventure.com
+  - name: gardenroaddistributors
+    url: https://gardenroaddistributors.com
     expectedStatusCodes:
       - 200
       - 201
       - 301
       - 403
-  - name: Azitra Us
-    url: https://azitra.us
+  - name: midwestsleepmedicine
+    url: https://midwestsleepmedicine.com
     expectedStatusCodes:
       - 200
       - 201
@@ -47,50 +47,50 @@ sites:
       - 201
       - 301
       - 403
-  - name: TripleR
-    url: https://tripler.com
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 301
-      - 403
-  - name: Nukkad USA
-    url: https://nukkadusa.com
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 301
-      - 403
-  - name: Modern Closets and Doors
-    url: https://modernclosetsanddoors.com
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 301
-      - 403
-  - name: Our Health Partner
+  - name: ourhealthpartner
     url: https://ourhealthpartner.com
     expectedStatusCodes:
       - 200
       - 201
       - 301
       - 403
-  - name: Vascular Wellness
-    url: https://vascularwellness.com
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 301
-      - 403
-  - name: rangoli Catering
+  - name: rangolicatering
     url: https://rangolicatering.com
     expectedStatusCodes:
       - 200
       - 201
       - 301
       - 403
-  - name: Tandoori RTP
-    url: https://Tandoorinrtp.com
+  - name: tandoorinrtp
+    url: https://tandoorinrtp.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
+  - name: thebrightfiveventure
+    url: https://thebrightfiveventure.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
+  - name: therangolirestaurant
+    url: https://therangolirestaurant.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
+  - name: wilsondigestivediseasescenter
+    url: https://wilsondigestivediseasescenter.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
+  - name: theairgap
+    url: https://theairgap.com
     expectedStatusCodes:
       - 200
       - 201
@@ -103,90 +103,84 @@ sites:
       - 201
       - 301
       - 403
-  - name: Synapse-ic
+  - name: nukkadusa
+    url: https://nukkadusa.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
+  - name: synapse
     url: https://synapse-ic.com
     expectedStatusCodes:
       - 200
       - 201
       - 301
       - 403
-  - name: Gardenroad Distributors
-    url: https://gardenroaddistributors.com
+  - name: tripler
+    url: https://tripler.com
     expectedStatusCodes:
       - 200
       - 201
       - 301
       - 403
-  - name: The Rangoli Restaurant
-    url: https://therangolirestaurant.com
+  - name: doorworkscompany
+    url: https://doorworkscompany.com
     expectedStatusCodes:
       - 200
       - 201
       - 301
       - 403
-  - name: The Airgap
-    url: https://theairgap.com
+  - name: originhubs
+    url: https://originhubs.com
     expectedStatusCodes:
       - 200
       - 201
       - 301
       - 403
-  - name: Tandoori Bites
-    url: https://tandooribites.net
+  - name: launchmorrisville
+    url: https://launchmorrisville.org
     expectedStatusCodes:
       - 200
       - 201
       - 301
       - 403
-  - name: Wilson Digestive Diseases Center
-    url: https://wilsondigestivediseasescenter.com
+  - name: carolinamedicalcare
+    url: https://carolinamedicalcare.com
     expectedStatusCodes:
       - 200
       - 201
       - 301
       - 403
-  - name: Beta Search
-    url: https://beta-search.com
+  - name: ncspices
+    url: https://ncspices.com
     expectedStatusCodes:
       - 200
       - 201
       - 301
       - 403
-  - name: Campussafety Products
-    url: https://campussafetyproducts.com
+  - name: calltoresearch
+    url: https://calltoresearch.com
     expectedStatusCodes:
       - 200
       - 201
       - 301
       - 403
-  - name: Carolinas Tie
+  - name: techlogyx
+    url: https://techlogyx.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
+  - name: tiecarolinas
     url: https://tiecarolinas.org
     expectedStatusCodes:
       - 200
       - 201
       - 301
       - 403
-  - name: Midwest Sleep Medicine
-    url: https://midwestsleepmedicine.com
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 301
-      - 403
-  - name: Carolinas Tie
-    url: https://carolinas.tie.org
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 301
-      - 403
-  - name: Executive eatsnyc 
-    url: https://executiveeatsnyc.com
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 301
-      - 403 
+   
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
