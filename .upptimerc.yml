@@ -180,6 +180,13 @@ sites:
       - 201
       - 301
       - 403
+  - name: raidentechgroup
+    url: https://raidentechgroup.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
    
 
 status-website:
