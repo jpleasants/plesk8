@@ -5,10 +5,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/plesk8.samitsolutions.com.ico",
     "slug": "plesk-8",
     "status": "up",
-    "uptime": "99.67%",
-    "uptimeDay": "96.74%",
-    "uptimeWeek": "99.53%",
-    "uptimeMonth": "98.04%",
+    "uptime": "99.68%",
+    "uptimeDay": "97.59%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "98.07%",
     "uptimeYear": "99.48%",
     "time": 567,
     "timeDay": 800,
@@ -16,7 +16,7 @@
     "timeMonth": 1030,
     "timeYear": 535,
     "dailyMinutesDown": {
-      "2025-03-25": 47,
+      "2025-03-25": 35,
       "2025-03-18": 102,
       "2025-03-17": 68,
       "2025-03-14": 207,
@@ -59,18 +59,20 @@
     "url": "https://executiveeatsnyc.com",
     "icon": "https://icons.duckduckgo.com/ip3/executiveeatsnyc.com.ico",
     "slug": "executiveeatsnyc",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 158,
     "timeDay": 132,
     "timeWeek": 158,
     "timeMonth": 158,
     "timeYear": 158,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-25": 1
+    }
   },
   {
     "name": "gardenroaddistributors",
@@ -173,19 +175,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/tandoorinrtp.com.ico",
     "slug": "tandoorinrtp",
     "status": "up",
-    "uptime": "99.84%",
-    "uptimeDay": "99.14%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.84%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 770,
     "timeDay": 1877,
     "timeWeek": 770,
     "timeMonth": 770,
     "timeYear": 770,
-    "dailyMinutesDown": {
-      "2025-03-25": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "thebrightfiveventure",
@@ -211,19 +211,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/therangolirestaurant.com.ico",
     "slug": "therangolirestaurant",
     "status": "up",
-    "uptime": "99.84%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.84%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 188,
     "timeDay": 320,
     "timeWeek": 188,
     "timeMonth": 188,
     "timeYear": 188,
-    "dailyMinutesDown": {
-      "2025-03-25": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "wilsondigestivediseasescenter",
@@ -249,18 +247,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/theairgap.com.ico",
     "slug": "theairgap",
     "status": "up",
-    "uptime": "99.40%",
-    "uptimeDay": "96.83%",
-    "uptimeWeek": "99.40%",
-    "uptimeMonth": "99.40%",
-    "uptimeYear": "99.40%",
+    "uptime": "99.55%",
+    "uptimeDay": "97.62%",
+    "uptimeWeek": "99.55%",
+    "uptimeMonth": "99.55%",
+    "uptimeYear": "99.55%",
     "time": 1057,
     "timeDay": 804,
     "timeWeek": 1057,
     "timeMonth": 1057,
     "timeYear": 1057,
     "dailyMinutesDown": {
-      "2025-03-25": 45
+      "2025-03-25": 34
     }
   },
   {
@@ -307,18 +305,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/synapse-ic.com.ico",
     "slug": "synapse",
     "status": "up",
-    "uptime": "99.41%",
-    "uptimeDay": "96.89%",
-    "uptimeWeek": "99.41%",
-    "uptimeMonth": "99.41%",
-    "uptimeYear": "99.41%",
+    "uptime": "99.55%",
+    "uptimeDay": "97.65%",
+    "uptimeWeek": "99.55%",
+    "uptimeMonth": "99.55%",
+    "uptimeYear": "99.55%",
     "time": 1362,
     "timeDay": 1846,
     "timeWeek": 1362,
     "timeMonth": 1362,
     "timeYear": 1362,
     "dailyMinutesDown": {
-      "2025-03-25": 45
+      "2025-03-25": 34
     }
   },
   {
@@ -327,18 +325,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/tripler.com.ico",
     "slug": "tripler",
     "status": "up",
-    "uptime": "99.42%",
-    "uptimeDay": "96.95%",
-    "uptimeWeek": "99.42%",
-    "uptimeMonth": "99.42%",
-    "uptimeYear": "99.42%",
+    "uptime": "99.56%",
+    "uptimeDay": "97.68%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "99.56%",
+    "uptimeYear": "99.56%",
     "time": 2608,
     "timeDay": 3006,
     "timeWeek": 2399,
     "timeMonth": 2399,
     "timeYear": 2399,
     "dailyMinutesDown": {
-      "2025-03-25": 44
+      "2025-03-25": 33
     }
   },
   {
@@ -439,18 +437,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/calltoresearch.com.ico",
     "slug": "calltoresearch",
     "status": "up",
-    "uptime": "99.43%",
-    "uptimeDay": "97.02%",
-    "uptimeWeek": "99.43%",
-    "uptimeMonth": "99.43%",
-    "uptimeYear": "99.43%",
+    "uptime": "99.57%",
+    "uptimeDay": "97.72%",
+    "uptimeWeek": "99.57%",
+    "uptimeMonth": "99.57%",
+    "uptimeYear": "99.57%",
     "time": 1075,
     "timeDay": 1346,
     "timeWeek": 1075,
     "timeMonth": 1075,
     "timeYear": 1075,
     "dailyMinutesDown": {
-      "2025-03-25": 43
+      "2025-03-25": 33
     }
   },
   {
@@ -459,18 +457,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/techlogyx.com.ico",
     "slug": "techlogyx",
     "status": "up",
-    "uptime": "99.44%",
-    "uptimeDay": "97.08%",
-    "uptimeWeek": "99.44%",
-    "uptimeMonth": "99.44%",
-    "uptimeYear": "99.44%",
+    "uptime": "99.57%",
+    "uptimeDay": "97.75%",
+    "uptimeWeek": "99.57%",
+    "uptimeMonth": "99.57%",
+    "uptimeYear": "99.57%",
     "time": 3784,
     "timeDay": 4643,
     "timeWeek": 3784,
     "timeMonth": 3784,
     "timeYear": 3784,
     "dailyMinutesDown": {
-      "2025-03-25": 42
+      "2025-03-25": 32
     }
   },
   {
@@ -479,18 +477,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/tiecarolinas.org.ico",
     "slug": "tiecarolinas",
     "status": "up",
-    "uptime": "99.46%",
-    "uptimeDay": "97.14%",
-    "uptimeWeek": "99.46%",
-    "uptimeMonth": "99.46%",
-    "uptimeYear": "99.46%",
+    "uptime": "99.58%",
+    "uptimeDay": "97.78%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "99.58%",
+    "uptimeYear": "99.58%",
     "time": 1279,
     "timeDay": 1632,
     "timeWeek": 1279,
     "timeMonth": 1279,
     "timeYear": 1279,
     "dailyMinutesDown": {
-      "2025-03-25": 41
+      "2025-03-25": 32
     }
   },
   {
@@ -499,18 +497,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/raidentechgroup.com.ico",
     "slug": "raidentechgroup",
     "status": "up",
-    "uptime": "89.48%",
-    "uptimeDay": "89.48%",
-    "uptimeWeek": "89.48%",
-    "uptimeMonth": "89.48%",
-    "uptimeYear": "89.48%",
+    "uptime": "92.39%",
+    "uptimeDay": "92.39%",
+    "uptimeWeek": "92.39%",
+    "uptimeMonth": "92.39%",
+    "uptimeYear": "92.39%",
     "time": 5140,
     "timeDay": 5140,
     "timeWeek": 5140,
     "timeMonth": 5140,
     "timeYear": 5140,
     "dailyMinutesDown": {
-      "2025-03-25": 41
+      "2025-03-25": 32
     }
   }
 ]
