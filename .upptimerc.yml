@@ -31,7 +31,7 @@ sites:
       - 403
   - name: gardenroaddistributors
     url: https://gardenroaddistributors.com
-    maxResponseTime: 10000
+    maxResponseTime: 15000
     expectedStatusCodes:
       - 200
       - 201
@@ -127,7 +127,7 @@ sites:
       - 403
   - name: synapse
     url: https://synapse-ic.com
-    maxResponseTime: 10000
+    maxResponseTime: 15000
     expectedStatusCodes:
       - 200
       - 201
@@ -135,7 +135,7 @@ sites:
       - 403
   - name: tripler
     url: https://tripler.com
-    maxResponseTime: 10000
+    maxResponseTime: 15000
     expectedStatusCodes:
       - 200
       - 201
@@ -183,7 +183,7 @@ sites:
       - 403
   - name: calltoresearch
     url: https://calltoresearch.com
-    maxResponseTime: 10000
+    maxResponseTime: 15000
     expectedStatusCodes:
       - 200
       - 201
@@ -191,7 +191,7 @@ sites:
       - 403
   - name: techlogyx
     url: https://techlogyx.com
-    maxResponseTime: 10000
+    maxResponseTime: 15000
     expectedStatusCodes:
       - 200
       - 201
@@ -199,7 +199,7 @@ sites:
       - 403
   - name: tiecarolinas
     url: https://tiecarolinas.org
-    maxResponseTime: 10000
+    maxResponseTime: 15000
     expectedStatusCodes:
       - 200
       - 201
@@ -207,7 +207,7 @@ sites:
       - 403
   - name: raidentechgroup
     url: https://raidentechgroup.com
-    maxResponseTime: 10000
+    maxResponseTime: 15000
     expectedStatusCodes:
       - 200
       - 201
