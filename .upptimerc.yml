@@ -19,7 +19,7 @@ sites:
       - 201
   - name: executiveeatsnyc
     url: https://executiveeatsnyc.com
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
@@ -37,13 +37,13 @@ sites:
       - 201
   - name: Sixth Sense HI
     url: https://sixthsensehi.com
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
   - name: ourhealthpartner
     url: https://ourhealthpartner.com
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
@@ -133,7 +133,7 @@ sites:
       - 201
   - name: ncspices
     url: https://ncspices.com
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
