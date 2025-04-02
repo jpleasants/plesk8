@@ -7,7 +7,7 @@ sites:
   - name: Plesk 8
     url: https://plesk8.samitsolutions.com
     port: 8443
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
@@ -55,7 +55,7 @@ sites:
       - 201
   - name: tandoorinrtp
     url: https://tandoorinrtp.com
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
@@ -73,7 +73,7 @@ sites:
       - 201
   - name: wilsondigestivediseasescenter
     url: https://wilsondigestivediseasescenter.com
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
@@ -115,7 +115,7 @@ sites:
       - 201
   - name: originhubs
     url: https://originhubs.com
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
