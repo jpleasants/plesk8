@@ -13,7 +13,7 @@ sites:
       - 201
   - name: beta-search
     url: https://beta-search.com
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
@@ -25,7 +25,7 @@ sites:
       - 201
   - name: gardenroaddistributors
     url: https://gardenroaddistributors.com
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
@@ -49,7 +49,7 @@ sites:
       - 201
   - name: rangolicatering
     url: https://rangolicatering.com
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
@@ -61,13 +61,13 @@ sites:
       - 201
   - name: thebrightfiveventure
     url: https://thebrightfiveventure.com
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
   - name: therangolirestaurant
     url: https://therangolirestaurant.com
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
@@ -79,7 +79,7 @@ sites:
       - 201
   - name: theairgap
     url: https://theairgap.com
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
@@ -91,25 +91,25 @@ sites:
       - 201
   - name: nukkadusa
     url: https://nukkadusa.com
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
   - name: synapse
     url: https://synapse-ic.com
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
   - name: tripler
     url: https://tripler.com
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
   - name: doorworkscompany
     url: https://doorworkscompany.com
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
@@ -121,13 +121,13 @@ sites:
       - 201
   - name: launchmorrisville
     url: https://launchmorrisville.org
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
   - name: carolinamedicalcare
     url: https://carolinamedicalcare.com
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
@@ -139,25 +139,25 @@ sites:
       - 201
   - name: calltoresearch
     url: https://calltoresearch.com
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
   - name: techlogyx
     url: https://techlogyx.com
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
   - name: tiecarolinas
     url: https://tiecarolinas.org
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
   - name: raidentechgroup
     url: https://raidentechgroup.com
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
