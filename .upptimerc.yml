@@ -19,7 +19,7 @@ sites:
       - 201
   - name: executiveeatsnyc
     url: https://executiveeatsnyc.com
-    maxResponseTime: 10000
+    maxResponseTime: 15000
     expectedStatusCodes:
       - 200
       - 201
@@ -31,7 +31,7 @@ sites:
       - 201
   - name: midwestsleepmedicine
     url: https://midwestsleepmedicine.com
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
