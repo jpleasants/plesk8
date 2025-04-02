@@ -43,7 +43,7 @@ sites:
       - 201
   - name: ourhealthpartner
     url: https://ourhealthpartner.com
-    maxResponseTime: 10000
+    maxResponseTime: 15000
     expectedStatusCodes:
       - 200
       - 201
@@ -85,7 +85,7 @@ sites:
       - 201
   - name: triangl Ehearing
     url: https://trianglehearing.com
-    maxResponseTime: 5000
+    maxResponseTime: 15000
     expectedStatusCodes:
       - 200
       - 201
@@ -133,7 +133,7 @@ sites:
       - 201
   - name: ncspices
     url: https://ncspices.com
-    maxResponseTime: 10000
+    maxResponseTime: 15000
     expectedStatusCodes:
       - 200
       - 201
