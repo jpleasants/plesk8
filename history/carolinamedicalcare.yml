@@ -1,7 +1,7 @@
 url: https://carolinamedicalcare.com
-status: up
-code: 200
-responseTime: 3606
-lastUpdated: 2025-04-07T14:50:34.175Z
+status: down
+code: 403
+responseTime: 137
+lastUpdated: 2025-04-07T15:01:08.655Z
 startTime: 2025-03-20T14:47:51.973Z
 generator: Upptime <https://github.com/upptime/upptime>
