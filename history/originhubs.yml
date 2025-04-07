@@ -1,7 +1,7 @@
 url: https://originhubs.com
-status: down
+status: degraded
 code: 500
-responseTime: 5866
-lastUpdated: 2025-04-06T23:10:00.749Z
+responseTime: 10012
+lastUpdated: 2025-04-07T05:42:38.884Z
 startTime: 2025-03-20T14:47:46.921Z
 generator: Upptime <https://github.com/upptime/upptime>
