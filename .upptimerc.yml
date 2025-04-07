@@ -11,156 +11,182 @@ sites:
     expectedStatusCodes:
       - 200
       - 201
+      - 403
   - name: beta-search
     url: https://beta-search.com
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
+      - 403
   - name: executiveeatsnyc
     url: https://executiveeatsnyc.com
     maxResponseTime: 15000
     expectedStatusCodes:
       - 200
       - 201
+      - 403
   - name: gardenroaddistributors
     url: https://gardenroaddistributors.com
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
+      - 403
   - name: midwestsleepmedicine
     url: https://midwestsleepmedicine.com
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
+      - 403
   - name: Sixth Sense HI
     url: https://sixthsensehi.com
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
+      - 403
   - name: ourhealthpartner
     url: https://ourhealthpartner.com
     maxResponseTime: 15000
     expectedStatusCodes:
       - 200
       - 201
+      - 403
   - name: rangolicatering
     url: https://rangolicatering.com
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
+      - 403
   - name: tandoorinrtp
     url: https://tandoorinrtp.com
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
+      - 403
   - name: thebrightfiveventure
     url: https://thebrightfiveventure.com
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
+      - 403
   - name: therangolirestaurant
     url: https://therangolirestaurant.com
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
+      - 403
   - name: wilsondigestivediseasescenter
     url: https://wilsondigestivediseasescenter.com
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
+      - 403
   - name: theairgap
     url: https://theairgap.com
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
+      - 403
   - name: triangl Ehearing
     url: https://trianglehearing.com
     maxResponseTime: 15000
     expectedStatusCodes:
       - 200
       - 201
+      - 403
   - name: nukkadusa
     url: https://nukkadusa.com
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
+      - 403
   - name: synapse
     url: https://synapse-ic.com
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
+      - 403
   - name: tripler
     url: https://tripler.com
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
+      - 403
   - name: doorworkscompany
     url: https://doorworkscompany.com
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
+      - 403
   - name: originhubs
     url: https://originhubs.com
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
+      - 403
   - name: launchmorrisville
     url: https://launchmorrisville.org
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
+      - 403
   - name: carolinamedicalcare
     url: https://carolinamedicalcare.com
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
+      - 403
   - name: ncspices
     url: https://ncspices.com
     maxResponseTime: 15000
     expectedStatusCodes:
       - 200
       - 201
+      - 403
   - name: calltoresearch
     url: https://calltoresearch.com
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
+      - 403
   - name: techlogyx
     url: https://techlogyx.com
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
+      - 403
   - name: tiecarolinas
     url: https://tiecarolinas.org
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
+      - 403
   - name: raidentechgroup
     url: https://raidentechgroup.com
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
+      - 403
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
