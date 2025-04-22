@@ -11,21 +11,18 @@ sites:
     expectedStatusCodes:
       - 200
       - 201
-      - 403
   - name: beta-search
     url: https://beta-search.com
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
-      - 403
   - name: executiveeatsnyc
     url: https://executiveeatsnyc.com
     maxResponseTime: 15000
     expectedStatusCodes:
       - 200
       - 201
-      - 403
   - name: gardenroaddistributors
     url: https://gardenroaddistributors.com
     maxResponseTime: 10000
@@ -39,7 +36,6 @@ sites:
     expectedStatusCodes:
       - 200
       - 201
-      - 403
   - name: Sixth Sense HI
     url: https://sixthsensehi.com
     maxResponseTime: 10000
