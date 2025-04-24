@@ -1,0 +1,2 @@
+- name: Public IP
+  uses: haythem/public-ip@v1.3
