@@ -1,7 +1,7 @@
 url: https://ncspices.com
-status: up
-code: 200
-responseTime: 7161
-lastUpdated: 2025-04-26T13:15:32.946Z
+status: down
+code: 403
+responseTime: 341
+lastUpdated: 2025-04-26T18:51:29.145Z
 startTime: 2025-03-20T14:47:54.440Z
 generator: Upptime <https://github.com/upptime/upptime>
