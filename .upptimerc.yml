@@ -8,176 +8,151 @@ sites:
     url: https://plesk8.samitsolutions.com
     port: 8443
     maxResponseTime: 10000
-    expectedStatusCodes:
-      - 403
+    expectedStatusCodes: 
       - 200
       - 201
   - name: beta-search
     url: https://beta-search.com
     maxResponseTime: 10000
     expectedStatusCodes:
-      - 403
       - 200
       - 201
   - name: executiveeatsnyc
     url: https://executiveeatsnyc.com
     maxResponseTime: 15000
     expectedStatusCodes:
-      - 403
       - 200
       - 201
   - name: gardenroaddistributors
     url: https://gardenroaddistributors.com
     maxResponseTime: 10000
     expectedStatusCodes:
-      - 403
       - 200
       - 201
   - name: midwestsleepmedicine
     url: https://midwestsleepmedicine.com
     maxResponseTime: 10000
     expectedStatusCodes:
-      - 403
       - 200
       - 201
   - name: Sixth Sense HI
     url: https://sixthsensehi.com
     maxResponseTime: 10000
     expectedStatusCodes:
-      - 403
       - 200
       - 201
   - name: ourhealthpartner
     url: https://ourhealthpartner.com
     maxResponseTime: 15000
     expectedStatusCodes:
-      - 403
       - 200
       - 201
   - name: rangolicatering
     url: https://rangolicatering.com
     maxResponseTime: 10000
     expectedStatusCodes:
-      - 403
       - 200
       - 201
   - name: tandoorinrtp
     url: https://tandoorinrtp.com
     maxResponseTime: 10000
     expectedStatusCodes:
-      - 403
       - 200
       - 201
   - name: thebrightfiveventure
     url: https://thebrightfiveventure.com
     maxResponseTime: 10000
     expectedStatusCodes:
-      - 403
       - 200
       - 201
   - name: therangolirestaurant
     url: https://therangolirestaurant.com
     maxResponseTime: 10000
     expectedStatusCodes:
-      - 403
       - 200
       - 201
   - name: wilsondigestivediseasescenter
     url: https://wilsondigestivediseasescenter.com
     maxResponseTime: 10000
     expectedStatusCodes:
-      - 403
       - 200
       - 201
   - name: triangl Ehearing
     url: https://trianglehearing.com
     maxResponseTime: 15000
     expectedStatusCodes:
-      - 403
       - 200
       - 201
   - name: nukkadusa
     url: https://nukkadusa.com
     maxResponseTime: 10000
     expectedStatusCodes:
-      - 403
       - 200
       - 201
   - name: synapse
     url: https://synapse-ic.com
     maxResponseTime: 10000
     expectedStatusCodes:
-      - 403
       - 200
       - 201
   - name: tripler
     url: https://tripler.com
     maxResponseTime: 10000
     expectedStatusCodes:
-      - 403
       - 200
       - 201
   - name: doorworkscompany
     url: https://doorworkscompany.com
     maxResponseTime: 10000
     expectedStatusCodes:
-      - 403
       - 200
       - 201
   - name: originhubs
     url: https://originhubs.com
     maxResponseTime: 10000
     expectedStatusCodes:
-      - 403
       - 200
       - 201
   - name: launchmorrisville
     url: https://launchmorrisville.org
     maxResponseTime: 10000
     expectedStatusCodes:
-      - 403
       - 200
       - 201
   - name: carolinamedicalcare
     url: https://carolinamedicalcare.com
     maxResponseTime: 10000
     expectedStatusCodes:
-      - 403
       - 200
       - 201
   - name: ncspices
     url: https://ncspices.com
     maxResponseTime: 15000
     expectedStatusCodes:
-      - 403
       - 200
       - 201
   - name: calltoresearch
     url: https://calltoresearch.com
     maxResponseTime: 10000
     expectedStatusCodes:
-      - 403
       - 200
       - 201
   - name: techlogyx
     url: https://techlogyx.com
     maxResponseTime: 10000
     expectedStatusCodes:
-      - 403
       - 200
       - 201
   - name: tiecarolinas
     url: https://tiecarolinas.org
     maxResponseTime: 10000
     expectedStatusCodes:
-      - 403
       - 200
       - 201
   - name: raidentechgroup
     url: https://raidentechgroup.com
     maxResponseTime: 10000
     expectedStatusCodes:
-      - 403
       - 200
       - 201
 
