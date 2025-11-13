@@ -180,6 +180,13 @@ sites:
       - 200
       - 201
       - 403
+  - name: openbottlenc
+    url: https://openbottlenc.com
+    maxResponseTime: 10000
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 403
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
