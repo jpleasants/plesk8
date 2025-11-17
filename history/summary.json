@@ -838,19 +838,19 @@
     "url": "https://openbottlenc.com",
     "icon": "https://icons.duckduckgo.com/ip3/openbottlenc.com.ico",
     "slug": "openbottlenc",
-    "status": "degraded",
-    "uptime": "99.98%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 8490,
-    "timeDay": 10539,
-    "timeWeek": 8490,
-    "timeMonth": 8490,
-    "timeYear": 8490,
+    "status": "up",
+    "uptime": "99.80%",
+    "uptimeDay": "99.12%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.80%",
+    "time": 8065,
+    "timeDay": 9279,
+    "timeWeek": 8065,
+    "timeMonth": 8065,
+    "timeYear": 8065,
     "dailyMinutesDown": {
-      "2025-11-17": 2
+      "2025-11-17": 13
     }
   }
 ]
