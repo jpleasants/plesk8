@@ -656,19 +656,19 @@
     "url": "https://carolinamedicalcare.com",
     "icon": "https://icons.duckduckgo.com/ip3/carolinamedicalcare.com.ico",
     "slug": "carolinamedicalcare",
-    "status": "up",
+    "status": "down",
     "uptime": "98.59%",
-    "uptimeDay": "90.55%",
-    "uptimeWeek": "98.65%",
-    "uptimeMonth": "99.69%",
+    "uptimeDay": "90.35%",
+    "uptimeWeek": "98.62%",
+    "uptimeMonth": "99.68%",
     "uptimeYear": "98.59%",
-    "time": 869,
-    "timeDay": 184,
-    "timeWeek": 174,
-    "timeMonth": 145,
-    "timeYear": 869,
+    "time": 868,
+    "timeDay": 186,
+    "timeWeek": 176,
+    "timeMonth": 146,
+    "timeYear": 868,
     "dailyMinutesDown": {
-      "2025-11-18": 136,
+      "2025-11-18": 139,
       "2025-04-30": 1000,
       "2025-04-29": 179,
       "2025-04-28": 43,
@@ -857,9 +857,9 @@
     "url": "https://openbottlenc.com",
     "icon": "https://icons.duckduckgo.com/ip3/openbottlenc.com.ico",
     "slug": "openbottlenc",
-    "status": "up",
+    "status": "down",
     "uptime": "98.28%",
-    "uptimeDay": "91.24%",
+    "uptimeDay": "91.16%",
     "uptimeWeek": "98.28%",
     "uptimeMonth": "98.28%",
     "uptimeYear": "98.28%",
@@ -869,7 +869,7 @@
     "timeMonth": 6726,
     "timeYear": 6726,
     "dailyMinutesDown": {
-      "2025-11-18": 126
+      "2025-11-18": 127
     }
   }
 ]
